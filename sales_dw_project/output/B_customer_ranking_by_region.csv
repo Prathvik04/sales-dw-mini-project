@@ -1,0 +1,21 @@
+region,customer_name,orders,revenue,region_rank,quartile,gap_to_leader
+East,Neha Iyer,53,1237739.5,1,1,0.0
+East,Tara Mehta,61,1193457.5,2,1,44282.0
+East,Arjun Mehta,52,1011171.0,3,1,226568.5
+East,Ananya Mehta,48,851864.5,4,1,385875.0
+East,Ananya Reddy,34,713356.0,5,1,524383.5
+North,Ananya Singh,71,1098364.0,1,1,0.0
+North,Diya Gupta,34,784246.0,2,1,314118.0
+North,Vikram Das,39,758406.0,3,1,339958.0
+North,Vivaan Nair,31,641229.0,4,1,457135.0
+North,Aditya Nair,21,638488.0,5,1,459876.0
+South,Vikram Mehta,25,864675.0,1,1,0.0
+South,Vivaan Das,47,790606.5,2,1,74068.5
+South,Pooja Mehta,27,682624.0,3,1,182051.0
+South,Saanvi Bose,28,575084.5,4,1,289590.5
+South,Vivaan Iyer,30,560540.5,5,1,304134.5
+West,Meera Bose,22,689516.0,1,1,0.0
+West,Kabir Patel,24,555615.0,2,1,133901.0
+West,Meera Das,28,536779.0,3,1,152737.0
+West,Karan Bose,42,516522.0,4,1,172994.0
+West,Meera Iyer,27,509940.0,5,1,179576.0

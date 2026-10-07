@@ -1,0 +1,11 @@
+customer_name,total_orders,first_order,last_order,avg_days_between_orders
+Karan Bose,42,2025-01-21,2026-06-29,12.8
+Vikram Das,39,2025-01-20,2026-06-13,13.4
+Ananya Singh,38,2025-01-21,2026-06-20,13.9
+Aarav Gupta,37,2025-01-02,2026-06-12,14.6
+Aarav Singh,36,2025-01-05,2026-06-25,15.3
+Priya Patel,35,2025-03-24,2026-06-26,13.5
+Sneha Iyer,35,2025-01-06,2026-04-26,14.0
+Sneha Patel,35,2025-01-26,2026-06-27,15.2
+Ananya Reddy,34,2025-01-09,2026-06-30,16.3
+Diya Gupta,34,2025-01-20,2026-06-14,15.5
